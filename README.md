@@ -1,4 +1,4 @@
-# Agricultural Robot
+# ROS Interfacing Project
 ## ROS Distro
 ![ros-noetic](https://i2.wp.com/varhowto.com/wp-content/uploads/2020/06/ROS-Noetic.png)
 ## Hardware
