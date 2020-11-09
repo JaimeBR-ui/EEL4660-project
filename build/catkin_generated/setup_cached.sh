@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ubuntu/EEL4660-project/devel:$CMAKE_PREFIX_PATH"
 export PWD='/home/ubuntu/EEL4660-project/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/ubuntu/EEL4660-project/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/ubuntu/EEL4660-project/src:$ROS_PACKAGE_PATH"

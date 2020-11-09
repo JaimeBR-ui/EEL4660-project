@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/EEL4660-project/install
+
+Name: teleoperation
+Description: Description of teleoperation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
