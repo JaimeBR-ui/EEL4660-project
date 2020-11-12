@@ -31,7 +31,7 @@ def callback(data):
 
 def listener():
 	rospy.init_node('listener', anonymous=True)
-	rospy.Subscriber("joy", Joy, callback)
+	rospy.Subscriber("joy", Joy, callback, queue_size=1)
 	rospy.spin()
 
 if __name__ == '__main__':
