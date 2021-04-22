@@ -1,6 +1,6 @@
 # ROS Interfacing Project
 ## ROS Distro
-![ros-noetic](https://i2.wp.com/varhowto.com/wp-content/uploads/2020/06/ROS-Noetic.png)
+![ros-noetic](http://wiki.ros.org/noetic?action=AttachFile&do=get&target=noetic.png)
 ## Hardware
 ### Computer
 - Raspberry Pi 4 Model B 2GB
